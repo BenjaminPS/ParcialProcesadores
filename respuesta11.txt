@@ -1,0 +1,6 @@
+- Usa 
+  Byte-oriented operations,Bit-oriented operations,Literal and control operations
+
+- El oscilador interno trabaja entre 31KHz hasta 8MHz, esto se configura dependiendo de la combinacion de bits que se haga.
+
+- Tiene 368 bytes de RAM el PIC16F886

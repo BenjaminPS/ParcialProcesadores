@@ -1,0 +1,2 @@
+Un microcontrolador es el componente principal de un sistema embebido, es como una computadora pequeña que tiene todo incorporado. posee un microprocesador, una memoria y perifericos.
+Se encarga de controlar elementos de etrada y salida.

@@ -1,0 +1,2 @@
+TRISC |= 0x0F     //para que los primeros 4 sean entrada
+TRISC &= ~0xF0    //para que los ultimosos 4 sean salida
